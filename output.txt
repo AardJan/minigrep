@@ -1,0 +1,11 @@
+Arg: target\debug\minigrep.exe
+Arg: to
+Arg: poem.txt
+env val: true
+arg val: true
+cs val: true
+["target\\debug\\minigrep.exe", "to", "poem.txt"]
+Searching for to
+In file poem.txt
+Are you nobody, too?
+How dreary to be somebody!
